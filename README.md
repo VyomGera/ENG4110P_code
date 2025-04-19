@@ -1,0 +1,1 @@
+This code adapts the 200 line python code by Andreassen (https://www.topopt.mek.dtu.dk/apps-and-software/topology-optimization-codes-written-in-python) in a similar manner to Xia who adapted the 88 line code by Andreassen (https://www.topopt.mek.dtu.dk/apps-and-software/efficient-topology-optimization-in-matlab)
